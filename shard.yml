@@ -1,0 +1,7 @@
+name: FileServer
+version: 0.1.0
+dependencies:
+  watchbird:
+    github: Sauilitired/watchbird
+  crest:
+    github: mamantoha/crest
